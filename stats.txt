@@ -1,0 +1,9 @@
+Q=0.6: Kruskal-Wallis across dwell values H=662.6, p=5.94e-141
+Q=0.6: latency(100 ms) < latency(20 ms)? U=10667644, p=3.18e-37, rank-biserial r=0.15
+Q=0.6: latency(100 ms) < latency(300 ms)? U=9449446, p=1.94e-99, rank-biserial r=0.24
+Q=0.85: Kruskal-Wallis across dwell values H=2230.6, p=0
+Q=0.85: latency(100 ms) < latency(20 ms)? U=9446323, p=1.23e-99, rank-biserial r=0.24
+Q=0.85: latency(100 ms) < latency(300 ms)? U=7078320, p=4.73e-309, rank-biserial r=0.43
+Q=0.95: Kruskal-Wallis across dwell values H=3056.9, p=0
+Q=0.95: latency(100 ms) < latency(20 ms)? U=9306131, p=8.75e-109, rank-biserial r=0.26
+Q=0.95: latency(100 ms) < latency(300 ms)? U=6410489, p=0, rank-biserial r=0.49
